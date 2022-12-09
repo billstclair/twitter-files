@@ -1,5 +1,10 @@
 #!/bin/bash
 
+# Execute this script to update billstclair.com/twitter-files to match
+# this script's parent directory, minus .github and bin directories.
+# Depends on the .sshdir script in the parent, my local copy of billstclair.com,
+# and my rsyncit script (part of https://github.com/billstclair/wws-scripts).
+
 cd `dirname -- "$0"`/../..
 pwd
 rsyncit -av --exclude=.git --exclude=bin twitter-files
