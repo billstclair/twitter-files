@@ -22,17 +22,7 @@ Content-Location: file:///Users/billstclair/etwof/billstclair.com/twitter-files/
  5em; padding: 2em; border: solid;">
     <h2>Twitter Files Supplemental [Two]</h2>
 
-    <p>This archive was made with Twitter's "Embed Tweet" feature. It depen=
-ds for everything but the text on the Tweets that it includes still existin=
-g on Twitter. If one or more is deleted, the images will disappear. In that=
- case, you can use the backup in <a href=3D"file:///Users/billstclair/etwof=
-/billstclair.com/twitter-files/supplemental-two.mhtml">supplemental.mhtml</=
-a>. That file will not open in all browsers (works for me in Brave and Chro=
-me; does NOT work in Safari), but my browser saves it to my computer, and I=
- have to open it from there.</p>
-
-    <p>Return to <a href=3D"file:///Users/billstclair/etwof/billstclair.com=
-/twitter-files/">index</a>.</p>
+    <p>This archive was made with Twitter's "Embed Tweet" feature, and then "Save as..." an MHTML file, so that it does not depend on the Tweets still existing on Twitter.</p>
 
     <div class=3D"twitter-tweet twitter-tweet-rendered" style=3D"display: f=
 lex; max-width: 550px; width: 100%; margin-top: 10px; margin-bottom: 10px;"=
